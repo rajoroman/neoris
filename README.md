@@ -1,7 +1,9 @@
-# neoris
-###Código fuente:
+# Neoris
+##Código fuente
 
 Este repositorio comprende la entrega del código fuente de la solución.
+
+##Imagen Docker y Docker-Compose
 
 La imagen docker se puede obtener por medio del enlace de descarga:
 docker pull rajoroman/neoris:neoris-test
