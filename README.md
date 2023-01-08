@@ -10,6 +10,7 @@ docker pull rajoroman/neoris:neoris-test
 
 Luego de obtenida la imagen se puede descarga el archivo docker-compose.yml
 para la generación de los contenedores de la solución y de postgres12
+ejecutando el comand docker-compose up o docker-compose up -d (ejecución en segundo plano)
 
 ## Postman y data.sql
 En el directorio docker-compose encontrará las colecciones de postman en 
